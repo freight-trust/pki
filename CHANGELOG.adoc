@@ -1,0 +1,26 @@
+= Freight Trust Changelog
+:uri-freighttrust: https://freighttrust.org
+:uri-asciidoc: {uri-freighttrust}/omnibus/
+:uri-repo: https://github.com/freight-trust/pki
+:icons: font
+:star: icon:star[role=red]
+ifndef::icons[]
+:star: &#9733;
+endif::[]
+
+{uri-freighttrust}[Freight Trust]
+
+== Release
+
+Enhancements:: 
+
+Distribution::
+
+Compliance::
+
+Improvements::
+
+Security::
+
+ // tag::compact[]
+== 2020.05 (2020-05-29) - @freight-trust
