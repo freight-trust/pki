@@ -24,7 +24,7 @@ gpg:                using RSA key C00B2090F23C5629029111CBF5D2A7216C51FB94
 gpg: Good signature from "sam bacha <sam@freighttrust.com>" [ultimate]
 gpg:                 aka "Freight Trust Corp <sam@freighttrust.com>" [ultimate]
 ```
-Where {public-key} is = C00B2090F23C5629029111CBF5D2A7216C51FB94
+Where {public-key}[public kety] is = C00B2090F23C5629029111CBF5D2A7216C51FB94
 
 === Resources
 
