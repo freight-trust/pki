@@ -1,18 +1,32 @@
 = Corporate PKI and GPG
 :url-project: https://freighttrust.com
-:url-docs: https://pki.freighttrust.com
+:url-docs: https://github.com/freight-trust/pki
 :url-org: https://github.com/freight-trust
 :url-group: {url-org}/pki
 :url-site-readme: {url-group}/pki/blob/master/README.adoc
 :url-freighttrust: https://freighttrust.com
+:public-key: ./gpg/6F6EB43E.asc
 
-Public Key Infrastructure and other Cryptographic Signing Instruments 
+Public Key Infrastructure and other Cryptographic Signing Instruments
 
 
 The playbook and instructions are located in {url-site-readme}[Freight Trust & Clearing Corporation].
 
+=== Usage
 
-== Resources
+Example
+
+```bash
+$ gpg --verify besu-xt.asc
+gpg: assuming signed data in 'besu-xt'
+gpg: Signature made Thu Jun 25 07:01:55 2020 PDT
+gpg:                using RSA key C00B2090F23C5629029111CBF5D2A7216C51FB94
+gpg: Good signature from "sam bacha <sam@freighttrust.com>" [ultimate]
+gpg:                 aka "Freight Trust Corp <sam@freighttrust.com>" [ultimate]
+```
+Where {public-key} is = C00B2090F23C5629029111CBF5D2A7216C51FB94
+
+=== Resources
 
 * {url-project}[Freight Trust Network Project]
 * {url-docs}[Freight Trust Docs]
@@ -24,10 +38,8 @@ Copyright (C) 2020 FreightTrust & Clearing Corporation. and individual Freight T
 
 Use of this documentation is granted under a dual-license, MIT and Apache-2.0
 
-## SPDX
+== License
 MIT
 Apache-2.0
-
-== Authors
 
 Development of the Freight Trust Network is led and sponsored by {url-freighttrust}[FreightTrust & Clearing Corporation].
