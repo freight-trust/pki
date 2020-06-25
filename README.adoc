@@ -5,7 +5,7 @@
 :url-group: {url-org}/pki
 :url-site-readme: {url-group}/pki/blob/master/README.adoc
 :url-freighttrust: https://freighttrust.com
-:public-key: ./gpg/6F6EB43E.asc
+:public-key: /gpg/6F6EB43E.asc
 
 Public Key Infrastructure and other Cryptographic Signing Instruments
 
