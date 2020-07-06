@@ -10,6 +10,16 @@
 
 Public Key Infrastructure and other Cryptographic Signing Instruments
 
+```bash
+pub   rsa4096 2020-06-04 [SC] [expires: 2024-06-04]
+      858023A92C8DA82FB996BB37361D5A506F6EB43E
+uid           [ultimate] sam bacha <sam@freighttrust.com>
+uid           [ultimate] Freight Trust Corp <sam@freighttrust.com>
+sub   rsa4096 2020-06-04 [E] [expires: 2024-06-04]
+sub   rsa4096 2020-06-16 [S] [expires: 2022-08-29]'
+
+      8580 23A9 2C8D A82F B996  BB37 361D 5A50 6F6E B43E
+```
 
 The playbook and instructions are located in {url-site-readme}[Freight Trust & Clearing Corporation].
 
