@@ -8,6 +8,24 @@
 :public-key: /gpg/6F6EB43E.asc
 :active-key: {url-group}{public-key}
 
+
+=== Docker Trust Signature
+
+
+``freight-trust`` key with ``ID: fbda181``
+
+```bash
+-----BEGIN PUBLIC KEY-----
+role: freight-trust
+
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEXRTPyINRxXaIs+tXqGv99Fnm83Jy
+DR8xgYoRFTzTMF4V13jx43Fn9nFJLfmdqyFovngiedFIm9htFve9qToAZg==
+-----END PUBLIC KEY-----
+```
+
+
+
+== PGP
 Public Key Infrastructure and other Cryptographic Signing Instruments
 
 ```bash
