@@ -1,6 +1,5 @@
-<h1 align="left">
-  <img width="900" src="https://raw.githubusercontent.com/freight-trust/branding/22cafe8e7f71594a5f4ded9fedc9b9af308ba1e9/sm_banner.svg" alt="Freight Trust">
-</h1>
+image:https://raw.githubusercontent.com/freight-trust/branding/22cafe8e7f71594a5f4ded9fedc9b9af308ba1e9/sm_banner.svg[Freight Trust Banner,900,role="left"]
+
 
 = Corporate PKI and GPG
 :url-project: https://freighttrust.com
