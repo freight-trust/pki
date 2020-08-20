@@ -16,7 +16,7 @@ image:https://raw.githubusercontent.com/freight-trust/branding/22cafe8e7f71594a5
 
 `curl https://raw.githubusercontent.com/freight-trust/pki/update/asc/6F6EB43E.asc --output 6F6EB43E.asc`
 
-[verify on keys.gnupgp](ttp://keys.gnupg.net/pks/lookup?search=freighttrust&fingerprint=on&op=index)
+[verify on keys.gnupgp](http://keys.gnupg.net/pks/lookup?search=freighttrust&fingerprint=on&op=index)
 
 
 === Docker Trust Signature
