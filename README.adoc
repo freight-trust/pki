@@ -14,7 +14,7 @@ image:https://raw.githubusercontent.com/freight-trust/branding/22cafe8e7f71594a5
 
 === Signing Key
 
-`curl https://raw.githubusercontent.com/freight-trust/pki/update/asc/6F6EB43E.asc --output 6F6EB43E.asc`
+`curl https://raw.githubusercontent.com/freight-trust/pki/master/6F6EB43E.asc --output 6F6EB43E.asc`
 
 [verify on keys.gnupgp](http://keys.gnupg.net/pks/lookup?search=freighttrust&fingerprint=on&op=index)
 
