@@ -1,0 +1,313 @@
+SEQUENCE
+{
+    SEQUENCE
+    {
+        TAGGED [0]:
+            INTEGER=2
+        INTEGER=
+            19 22 50 63 3B BE CF 06   ."Pc;¾Ï.
+            08 31 98 DB F6 A6 CF 9A   .1.Ûö¦Ï.
+            B6 FA 53 66               ¶úSf
+        SEQUENCE
+        {
+            OBJECT IDENTIFIER=Sha256WithRSAEncryption (1.2.840.113549.1.1.11)
+            NULL
+        }
+        SEQUENCE
+        {
+            SET
+            {
+                SEQUENCE
+                {
+                    OBJECT IDENTIFIER=CommonName (2.5.4.3)
+                    UTF8 STRING='Freight Trust and Clearing Root CA'
+                }
+            }
+            SET
+            {
+                SEQUENCE
+                {
+                    OBJECT IDENTIFIER=CountryName (2.5.4.6)
+                    PRINTABLE STRING='US'
+                }
+            }
+            SET
+            {
+                SEQUENCE
+                {
+                    OBJECT IDENTIFIER=OrganizationName (2.5.4.10)
+                    UTF8 STRING='FreightTrust and Clearing Corporation'
+                }
+            }
+        }
+        SEQUENCE
+        {
+            UTC TIME=24/Sep/2020 13:36:15 PDT (200924203615GMT+00:00)
+            UTC TIME=24/Sep/2021 13:36:15 PDT (210924203615GMT+00:00)
+        }
+        SEQUENCE
+        {
+            SET
+            {
+                SEQUENCE
+                {
+                    OBJECT IDENTIFIER=OrganizationName (2.5.4.10)
+                    UTF8 STRING='254900C9UJMDGJ0ILK56'
+                }
+            }
+            SET
+            {
+                SEQUENCE
+                {
+                    OBJECT IDENTIFIER=CommonName (2.5.4.3)
+                    UTF8 STRING='FreightTrust and Clearing Corporation'
+                }
+            }
+        }
+        SEQUENCE
+        {
+            SEQUENCE
+            {
+                OBJECT IDENTIFIER=RsaEncryption (1.2.840.113549.1.1.1)
+                NULL
+            }
+            BIT STRING, encapsulates:
+                SEQUENCE
+                {
+                    INTEGER=
+                        00 DF B5 4F 1B F6 9A 6B   .ßµO.ö.k
+                        10 3F F9 F3 DF 8E 3F 19   .?ùóß.?.
+                        BB A6 C5 0F 66 99 96 0D   »¦Å.f...
+                        D3 CD DD 30 78 43 43 B1   ÓÍÝ0xCC±
+                        44 AC CD 3B F9 28 B4 A6   D¬Í;ù(´¦
+                        18 20 23 FA 77 4E EB 95   . #úwNë.
+                        6A D7 D1 98 37 F9 DA CF   j×Ñ.7ùÚÏ
+                        6A 30 43 7E D1 80 EC EF   j0C~Ñ.ìï
+                        07 F3 A5 D8 06 84 46 9F   .ó¥Ø..F.
+                        F5 7F 28 DE 45 D4 C3 DD   õ.(ÞEÔÃÝ
+                        97 FC 14 63 A1 59 BA ED   .ü.c¡Yºí
+                        9A 06 8F B6 3F 16 D2 B6   ...¶?.Ò¶
+                        EC F8 87 A3 CF 68 62 52   ìø.£ÏhbR
+                        6D CD B1 B3 28 E6 56 B4   mÍ±³(æV´
+                        69 A5 2F 36 43 13 FC B7   i¥/6C.ü·
+                        B3 80 EA 63 F2 0C 28 0E   ³.êcò.(.
+                        2B E6 7F 02 89 D2 1F 03   +æ...Ò..
+                        13 86 9D 8A 4F CA 79 39   ....OÊy9
+                        75 A2 EC B9 4D AA FB DF   u¢ì¹Mªûß
+                        C0 0A E5 EC 65 3B AD 8B   À.åìe;­.
+                        CD E1 AF 99 C6 F7 52 88   Íá¯.Æ÷R.
+                        95 FE 48 2D D4 3F 11 CD   .þH-Ô?.Í
+                        FB 4E EC 6B AA 5C C6 4A   ûNìkª\ÆJ
+                        55 24 60 F6 5B A0 31 F3   U$`ö[ 1ó
+                        10 67 8C 94 BB 9B 5D 30   .g..».]0
+                        22 AF 4E 4B E6 A2 37 76   "¯NKæ¢7v
+                        8A 45 62 FA 0A 21 52 BA   .Ebú.!Rº
+                        60 0E 8F 69 59 3F EA F9   `..iY?êù
+                        DA 3C 74 81 B7 A8 90 AA   Ú<t.·¨.ª
+                        B2 3A CE B3 F6 AF D2 D1   ²:Î³ö¯ÒÑ
+                        28 A4 18 B2 91 3C 64 49   (¤.².<dI
+                        46 29 D7 F3 E4 8D 55 55   F)×óä.UU
+                        27                        '
+                    INTEGER=65537 (0x10001)
+                }
+
+        }
+        TAGGED [3]:
+            SEQUENCE
+            {
+                SEQUENCE
+                {
+                    OBJECT IDENTIFIER=SubjectKeyIdentifier (2.5.29.14)
+                    OCTET STRING, encapsulates:
+                        OCTET STRING=
+                            36 1D 8D C0 C3 83 43 81   6..ÀÃ.C.
+                            8C 81 8B 9F 8B 87 62 CF   ......bÏ
+                            B9 0A EA 72               ¹.êr
+
+                }
+                SEQUENCE
+                {
+                    OBJECT IDENTIFIER=AuthorityKeyIdentifier (2.5.29.35)
+                    OCTET STRING, encapsulates:
+                        SEQUENCE
+                        {
+                            TAGGED [0] IMPLICIT :
+                                OCTET STRING=
+                                    40 B2 A4 29 ED 31 B7 2A   @²¤)í1·*
+                                    EB FF BF E5 57 B3 1B AB   ëÿ¿åW³.«
+                                    EF 8F EC F9               ï.ìù
+                        }
+
+                }
+                SEQUENCE
+                {
+                    OBJECT IDENTIFIER=KeyUsage (2.5.29.15)
+                    OCTET STRING, encapsulates:
+                        BIT STRING=10000000
+
+                }
+                SEQUENCE
+                {
+                    OBJECT IDENTIFIER=ExtKeyUsage (2.5.29.37)
+                    OCTET STRING, encapsulates:
+                        SEQUENCE
+                        {
+                            OBJECT IDENTIFIER=CodeSigning (1.3.6.1.5.5.7.3.3)
+                            OBJECT IDENTIFIER=EmailProtection (1.3.6.1.5.5.7.3.4)
+                            OBJECT IDENTIFIER=TimeStamping (1.3.6.1.5.5.7.3.8)
+                            OBJECT IDENTIFIER=OcspSigning (1.3.6.1.5.5.7.3.9)
+                            OBJECT IDENTIFIER=IndividualCodeSigning (1.3.6.1.4.1.311.2.1.21)
+                            OBJECT IDENTIFIER=CommercialCodeSigning (1.3.6.1.4.1.311.2.1.22)
+                            OBJECT IDENTIFIER=CertTrustListSigning (1.3.6.1.4.1.311.10.3.1)
+                        }
+
+                }
+                SEQUENCE
+                {
+                    OBJECT IDENTIFIER=BasicConstraints (2.5.29.19)
+                    BOOLEAN=true
+                    OCTET STRING, encapsulates:
+                        SEQUENCE
+                        {
+                            BOOLEAN=true
+                        }
+
+                }
+                SEQUENCE
+                {
+                    OBJECT IDENTIFIER=AuthorityInfoAccess (1.3.6.1.5.5.7.1.1)
+                    OCTET STRING, encapsulates:
+                        SEQUENCE
+                        {
+                            SEQUENCE
+                            {
+                                OBJECT IDENTIFIER=CaIssuers (1.3.6.1.5.5.7.48.2)
+                                TAGGED [6] IMPLICIT :
+                                    OCTET STRING=
+                                        68 74 74 70 3A 2F 2F 63   http://c
+                                        65 72 74 73 2E 70 6B 69   erts.pki
+                                        61 61 73 2E 69 6F 2F 6B   aas.io/k
+                                        62 41 4D 54 4D 6D 78 52   bAMTMmxR
+                                        5A 2F 46 72 65 69 67 68   Z/Freigh
+                                        74 54 72 75 73 74 61 6E   tTrustan
+                                        64 43 6C 65 61 72 69 6E   dClearin
+                                        67 52 6F 6F 74 43 41 63   gRootCAc
+                                        61 2E 63 72 74            a.crt
+                            }
+                            SEQUENCE
+                            {
+                                OBJECT IDENTIFIER=Ocsp (1.3.6.1.5.5.7.48.1)
+                                TAGGED [6] IMPLICIT :
+                                    OCTET STRING=
+                                        68 74 74 70 3A 2F 2F 6F   http://o
+                                        63 73 70 2E 70 6B 69 61   csp.pkia
+                                        61 73 2E 69 6F 2F         as.io/
+                            }
+                        }
+
+                }
+                SEQUENCE
+                {
+                    OBJECT IDENTIFIER=CRLDistributionPoints (2.5.29.31)
+                    OCTET STRING, encapsulates:
+                        SEQUENCE
+                        {
+                            SEQUENCE
+                            {
+                                TAGGED [0]:
+                                    TAGGED [0]:
+                                        TAGGED [6] IMPLICIT :
+                                            OCTET STRING=
+                                                68 74 74 70 3A 2F 2F 63   http://c
+                                                72 6C 2E 70 6B 69 61 61   rl.pkiaa
+                                                73 2E 69 6F 2F 6B 62 41   s.io/kbA
+                                                4D 54 4D 6D 78 52 5A 2F   MTMmxRZ/
+                                                46 72 65 69 67 68 74 54   FreightT
+                                                72 75 73 74 61 6E 64 43   rustandC
+                                                6C 65 61 72 69 6E 67 52   learingR
+                                                6F 6F 74 43 41 2E 63 72   ootCA.cr
+                                                6C                        l
+                            }
+                        }
+
+                }
+                SEQUENCE
+                {
+                    OBJECT IDENTIFIER=CertificatePolicies (2.5.29.32)
+                    OCTET STRING, encapsulates:
+                        SEQUENCE
+                        {
+                            SEQUENCE
+                            {
+                                OBJECT IDENTIFIER=AnyPolicy (2.5.29.32.0)
+                                SEQUENCE
+                                {
+                                    SEQUENCE
+                                    {
+                                        OBJECT IDENTIFIER=Cps (1.3.6.1.5.5.7.2.1)
+                                        IA5 STRING='https://pkiaas.io/kbAMTMmxRZ/CPS'
+                                    }
+                                }
+                            }
+                        }
+
+                }
+                SEQUENCE
+                {
+                    OBJECT IDENTIFIER=SubjectAltName (2.5.29.17)
+                    OCTET STRING, encapsulates:
+                        SEQUENCE
+                        {
+                            TAGGED [2] IMPLICIT :
+                                OCTET STRING=
+                                    66 72 65 69 67 68 74 74   freightt
+                                    72 75 73 74 2E 63 6F 6D   rust.com
+                            TAGGED [2] IMPLICIT :
+                                OCTET STRING=
+                                    77 77 77 2E 66 72 65 69   www.frei
+                                    67 68 74 74 72 75 73 74   ghttrust
+                                    2E 63 6F 6D               .com
+                        }
+
+                }
+            }
+    }
+    SEQUENCE
+    {
+        OBJECT IDENTIFIER=Sha256WithRSAEncryption (1.2.840.113549.1.1.11)
+        NULL
+    }
+    BIT STRING=
+        5A 02 19 F2 FF 74 25 78   Z..òÿt%x
+        04 09 A4 40 58 6A 22 2C   ..¤@Xj",
+        84 74 25 22 41 86 DF 51   .t%"A.ßQ
+        31 54 FA 51 A1 45 61 17   1TúQ¡Ea.
+        E2 5F EC 74 25 C8 8F 6F   â_ìt%È.o
+        9A 7A 87 31 38 99 A6 7B   .z.18.¦{
+        C6 B6 FF EA 34 50 06 5E   Æ¶ÿê4P.^
+        E2 D0 F3 8C 2D 50 29 34   âÐó.-P)4
+        12 9D 80 27 77 D1 BC 26   ...'wÑ¼&
+        01 B7 2D 04 3D 13 7E 4E   .·-.=.~N
+        4A 50 3C 1F 79 EC E8 B4   JP<.yìè´
+        57 90 C8 21 F2 F6 15 C9   W.È!òö.É
+        0D B0 9A 5E 48 4E 6E 1B   .°.^HNn.
+        2A D1 E4 3A E5 17 5A B6   *Ñä:å.Z¶
+        B5 69 5A F4 52 5C 6F F1   µiZôR\oñ
+        9E A5 C7 AA 68 35 5D C0   .¥Çªh5]À
+        EB 87 41 E7 A3 EB DB 90   ë.Aç£ëÛ.
+        37 02 C3 4E 6F D0 7A 0C   7.ÃNoÐz.
+        62 C8 CF 26 E7 FA 7C 0F   bÈÏ&çú|.
+        02 92 C8 52 3E 91 F2 E0   ..ÈR>.òà
+        A8 8C D4 4B F0 8D EA A7   ¨.ÔKð.ê§
+        2E C9 7D 86 09 3D A6 A2   .É}..=¦¢
+        30 0F 43 B0 D7 87 84 0B   0.C°×...
+        AB 68 C2 2A 2C B1 6F 6C   «hÂ*,±ol
+        B8 19 B8 EB D4 EA CF 4B   ¸.¸ëÔêÏK
+        31 3F 32 F4 59 5E 72 9E   1?2ôY^r.
+        64 5A D5 8E DA D4 BB B2   dZÕ.ÚÔ»²
+        11 BB 00 50 0E 84 3D AE   .».P..=®
+        15 F3 8A 1A 5D 34 EC AB   .ó..]4ì«
+        05 C3 4C D2 E9 CA 92 2B   .ÃLÒéÊ.+
+        21 3A 65 8D E3 48 71 58   !:e.ãHqX
+        2F 86 5D 36 6D D6 3C A4   /.]6mÖ<¤
+}
