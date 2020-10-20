@@ -75,6 +75,8 @@ Where {url-group}{public-key} is = C00B2090F23C5629029111CBF5D2A7216C51FB94
 * {url-docs}[Freight Trust Docs]
 * {url-org}[Freight Trust & Clearing Repositories]
 
+* link:https://gitlab.com/sequoia-pgp/sequoia[Sequoia PGP]
+
 == Copyright and License
 
 Copyright (C) 2020 FreightTrust & Clearing Corporation. and individual Freight Trust Network Project contributors.
